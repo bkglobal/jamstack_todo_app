@@ -1,0 +1,19 @@
+{
+  "name": "gatsby_natlify_graphql_faunadb_todo_app",
+  "version": "1.0.0",
+  "description": "This is the Practice Todo App Created on JAMStack  The main technologies used in this app is .. React, Gatsby, Graphql, Faunadb, Netlify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkglobal/jamstack_todo_app.git"
+  },
+  "author": "Muhammad Bilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkglobal/jamstack_todo_app/issues"
+  },
+  "private": true,
+  "workspaces": [
+    "app/*"
+  ]
+}
