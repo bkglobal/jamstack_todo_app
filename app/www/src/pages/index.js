@@ -1,5 +1,5 @@
 import React from 'react';
-import medBannerImage from '../../assets/medBannerImg.png';
+import medBannerImage from '../../assets/slider-01.jpg';
 
 export default function MainPage(props) {
     return (
