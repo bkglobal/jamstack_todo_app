@@ -6,7 +6,6 @@ export default function MainPage(props) {
         <div>
             <div>Hellow There..</div>
             <div>Here are some images listed below</div>
-            <img src={medBannerImage} />
         </div>
     ); 
 } 
