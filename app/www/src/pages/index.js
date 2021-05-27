@@ -1,5 +1,4 @@
 import React from 'react';
-import medBannerImage from '../../assets/relax.jp2';
 
 export default function MainPage(props) {
     return (
